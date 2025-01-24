@@ -1,6 +1,6 @@
 
 # Gold Project
 
-A simple project to measure the price of gold, currency and digital currency
+A simple project with Kotlin and Retrofit to display the price of gold, currency and digital currency
 
 
